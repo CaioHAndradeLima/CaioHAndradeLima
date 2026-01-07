@@ -39,8 +39,8 @@
 
 ## 🚀 Featured Projects
 
-### 📱 [Android Jetpack Compose App](https://github.com/CaioHAndradeLima/pokemon)
-**Pokémon Showcase App**  
+### 📱 [Android Jetpack Compose App](https://github.com/CaioHAndradeLima/Shop)
+**Shops/store Showcase App**  
 A modern, clean architecture Android project using Jetpack Compose and advanced UI patterns.  
 
 ---
