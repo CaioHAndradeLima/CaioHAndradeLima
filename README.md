@@ -1,4 +1,4 @@
-👋 Hi, I’m Caio — an experienced Android Engineer with over **9 years** building scalable, high-performance mobile and backend systems. I’ve led major projects and engineering teams across **Latin America’s largest industries**, including:
+👋 Hi, I’m Caio — an experienced Software Engineer for over **10 years** building scalable, high-performance mobile and backend systems. I’ve led major projects and engineering teams across **Latin America’s largest industries**, including:
 
 - 🏦 PayPal - Venmo App
 - 🏦 Itaú Unibanco
