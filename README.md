@@ -13,17 +13,13 @@
 
 ## 👨‍💻 What I Do
 
-### Android Development
-- Expert in **Jetpack Compose**, **Kotlin**, **Clean Architecture**, **Coroutines**, and **Modern Android Development (MAD)** principles
-- Deep experience with **Firebase**, **Room**, **Hilt**, **Navigation**, and **modularization**
-- Proven track record of delivering high-quality apps with scalable architecture and seamless UI/UX
-
-### Cross-platform with Flutter
-- Built beautiful, responsive UIs using **Flutter** and **Dart**
-- Firebase integration, navigation patterns, and platform-specific configuration
+### AI Development
+- Expert in **Langchain**, **Python**, **RAG** and **Modern AI Development** principles
+- Deep experience with **Agents**, **Models**, **LLM**, **Coding**, and **AI agents development**
+- Proven track record of delivering high-quality multi-agents system with scalable architecture and seamless experience.
 
 ### Full Stack Engineering
-- Experience with **NestJS**, **TypeScript**, and **MongoDB** for building scalable backend services
+- Experience with **Python**, **FastApi**, **NestJS**, **TypeScript**, and **MongoDB** for building scalable backend services
 - CI/CD implementation using **GitHub Actions** and **AWS (EC2, ECS, ECR)** for cloud deployments
 - RESTful API design with secure authentication, validation, and monitoring
 
@@ -31,7 +27,7 @@
 
 ## 🏆 Career Highlight
 
-> 💼 **Led 350 Android Engineers** as **Android Software Manager** at the largest financial institution in Latin America.  
+> 💼 **Led 350 Engineers** as **Software Manager** at the largest financial institution in Latin America.  
 > Oversaw platform architecture, hiring, mentorship, and delivery of mission-critical features.  
 > _More details available on [LinkedIn](https://www.linkedin.com/in/caiohandradelima/)_
 
@@ -39,7 +35,7 @@
 
 ## 🚀 Featured Projects
 
-### 📱 [Android Jetpack Compose App](https://github.com/CaioHAndradeLima/Shop)
+### 📱 [Jetpack Compose App](https://github.com/CaioHAndradeLima/Shop)
 **Shops/store Showcase App**  
 A modern, clean architecture Android project using Jetpack Compose and advanced UI patterns.  
 
@@ -66,6 +62,7 @@ Here are some of the technologies and tools I've been working with recently:
 <b>Languages</b>
 
 <p align="left">
+    <img alt="Python" width="160" height="120" src="https://miro.medium.com/v2/1*3IcLSFuT8PQg4cUBaRXH1A.png" />
   <img alt="Java" width="160" height="120" src="https://bk.ibxk.com.br/2022/03/14/14171252456234.jpg?ims=650x" />
   <img alt="Kotlin" width="160" height="120" src="https://enggkatta.com/wp-content/uploads/2023/09/kotlin-programming-language.jpg"/>
     <img alt="Dart" width="160" height="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5m9h2CRfS_0XtKWWM-U1PIV6h00XdfG9gA&s"/>
@@ -75,6 +72,8 @@ Here are some of the technologies and tools I've been working with recently:
 <b>Tecnologies</b>
 
 <p align="left">
+
+  <img alt="Langchain" width="160" height="120" src="https://www.prodjex.com/wp-content/uploads/2025/10/Building-a-Context-Aware-Chatbot-with-LangChain-scaled.webp"/>
 
   <img alt="Android" width="160" height="120" src="https://lh3.googleusercontent.com/LYUDWiiqyTSiwzbPsJnYhfTzA3kUAoYgRy_1mpKTZOuLtpaMTaNdPKm8Xesm5mxA_zUSIGy6RO4PxhUnIDgTgbmroxgVpudnc0XKWW0cByZXppI2WGo"/>
   <img alt="iOS" width="160" height="120" src="https://img.uxcel.com/tags/ios-1721717446446-2x.jpg"/>
