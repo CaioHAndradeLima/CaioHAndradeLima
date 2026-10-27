@@ -1,104 +1,102 @@
-👋 Hi, I’m Caio — an experienced Software Engineer for over **10 years** building scalable, high-performance mobile and backend systems. I’ve led major projects and engineering teams across **Latin America’s largest industries**, including:
+# Hi, I'm Caio H. Andrade Lima
 
-- 🏦 PayPal - Venmo App
-- 🏦 Itaú Unibanco
-- 🏦 Master Bank
-- 📦 Amazon Shipping (Total Express)
-- 📺 Globo Television
-- 🩺 Hospital Albert Einstein
+**AI Engineer** · 10+ years building production software · RAG, agents, and backend systems at scale
 
-- 🛠️ Large-scale software products with millions of daily users
+I'm focused on **retrieval-augmented generation**, **agentic systems**, and engineering practices that ship reliable products in production. Current work spans retrieval and reranking, evaluation with golden datasets, agent orchestration and verification, and trade-offs across **quality**, **latency**, and **cost**.
+
+Previously led large mobile and backend programs for **PayPal (Venmo)**, **Itaú Unibanco**, **Amazon Shipping**, **Globo**, and others across Latin America.
 
 ---
 
-## 👨‍💻 What I Do
+## Core experience
 
-### AI Development
-- Expert in **Langchain**, **Python**, **RAG** and **Modern AI Development** principles
-- Deep experience with **Agents**, **Models**, **LLM**, **Coding**, and **AI agents development**
-- Proven track record of delivering high-quality multi-agents system with scalable architecture and seamless experience.
-
-### Full Stack Engineering
-- Experience with **Python**, **FastApi**, **NestJS**, **TypeScript**, and **MongoDB** for building scalable backend services
-- CI/CD implementation using **GitHub Actions** and **AWS (EC2, ECS, ECR)** for cloud deployments
-- RESTful API design with secure authentication, validation, and monitoring
+- **Languages & AI stack:** Python, Java, Kotlin, TypeScript · LangChain, LangGraph, LangFuse
+- **AI engineering:** RAG, hybrid retrieval, reranking, agent workflows, LLM evaluation
+- **Backend:** REST APIs with **NestJS** and **Firebase Functions**
+- **Cloud:** AWS, Azure, Google Cloud
+- **Architecture:** Clean Architecture, SOLID, design patterns
+- **Quality & delivery:** Unit and UI testing · CI/CD with GitLab, CircleCI, Jenkins, GitHub Actions
 
 ---
 
-## 🏆 Career Highlight
+## Selected projects
 
-> 💼 **Led 350 Engineers** as **Software Manager** at the largest financial institution in Latin America.  
-> Oversaw platform architecture, hiring, mentorship, and delivery of mission-critical features.  
-> _More details available on [LinkedIn](https://www.linkedin.com/in/caiohandradelima/)_
+### [genai-eval-harness](https://github.com/CaioHAndradeLima/genai-eval-harness)
 
----
+AI pipeline evaluation for RAG, the retrieval layer, prompt engineering, and agent outputs.
 
-## 🚀 Featured Projects
+`Python` · `RAG` · `OpenAI API` · `Pydantic` · `YAML` · `pytest` · `GitHub Actions`
 
-### 📱 [Jetpack Compose App](https://github.com/CaioHAndradeLima/Shop)
-**Shops/store Showcase App**  
-A modern, clean architecture Android project using Jetpack Compose and advanced UI patterns.  
+### [AI-data-engineer-tech-roles](https://github.com/CaioHAndradeLima/AI-data-engineer-tech-roles)
 
----
+Data-driven analysis of the AI and Data Engineering job market—automated collection and visualization to surface emerging trends.
 
-### 🌌 [Flutter NASA App](https://github.com/CaioHAndradeLima/nasa)
-**NASA Explorer App**  
-Cross-platform Flutter app showcasing NASA's APIs, including image galleries and daily feeds.  
+`Python` · `Google Gemini` · `Apache Airflow` · `AWS S3` · `AWS Glue` · `Amazon Athena` · `Terraform` · `Streamlit` · `Docker` · `Plotly` · `Pandas` · `GitHub Actions`
 
----
+### [nasa-api](https://github.com/CaioHAndradeLima/nasa-api)
 
-### ☁️ [NestJS API](https://github.com/CaioHAndradeLima/nasa-api)
-**NASA API**  
-RESTful API built with NestJS, deployed to AWS with CI/CD pipelines using GitHub Actions.  
+NestJS service consuming NASA APIs for satellite imagery. Docker, AWS EC2 deployment, and Clean Architecture.
 
----
+`TypeScript` · `NestJS` · `Docker` · `AWS EC2` · `GitHub Actions`
 
-## 🛠️ Technologies & Tools
+### [crypto-real-time-pipeline](https://github.com/CaioHAndradeLima/crypto-real-time-pipeline)
 
-Here are some of the technologies and tools I've been working with recently:
+Real-time ingestion and processing for cryptocurrency market data, designed for low-latency analysis.
 
-## 🛠 Tech Stack
+`Python` · `Apache Kafka` · `Kafka Connect` · `Apache Airflow` · `Snowflake` · `Terraform` · `Docker` · `PostgreSQL` · `WebSocket` · `GitHub Actions`
 
-<b>Languages</b>
+### [new-york-rainy-data-pipeline](https://github.com/CaioHAndradeLima/new-york-rainy-data-pipeline)
 
-<p align="left">
-    <img alt="Python" width="160" height="120" src="https://miro.medium.com/v2/1*3IcLSFuT8PQg4cUBaRXH1A.png" />
-  <img alt="Java" width="160" height="120" src="https://bk.ibxk.com.br/2022/03/14/14171252456234.jpg?ims=650x" />
-  <img alt="Kotlin" width="160" height="120" src="https://enggkatta.com/wp-content/uploads/2023/09/kotlin-programming-language.jpg"/>
-    <img alt="Dart" width="160" height="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5m9h2CRfS_0XtKWWM-U1PIV6h00XdfG9gA&s"/>
-  <img alt="TypeScript" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png"/>
-</p>
+End-to-end batch ETL on historical NYC weather patterns—robust extraction, transformation, and storage.
 
-<b>Tecnologies</b>
-
-<p align="left">
-
-  <img alt="Langchain" width="160" height="120" src="https://www.prodjex.com/wp-content/uploads/2025/10/Building-a-Context-Aware-Chatbot-with-LangChain-scaled.webp"/>
-
-  <img alt="Android" width="160" height="120" src="https://lh3.googleusercontent.com/LYUDWiiqyTSiwzbPsJnYhfTzA3kUAoYgRy_1mpKTZOuLtpaMTaNdPKm8Xesm5mxA_zUSIGy6RO4PxhUnIDgTgbmroxgVpudnc0XKWW0cByZXppI2WGo"/>
-  <img alt="iOS" width="160" height="120" src="https://img.uxcel.com/tags/ios-1721717446446-2x.jpg"/>
-  <img alt="Flutter" width="160" height="120" src="https://zup.com.br/wp-content/uploads/2021/03/5ce2fde702ef93c1e994d987_flutter.png"/>
-  <img alt="NestJS" width="160" height="120" src="https://miro.medium.com/v2/resize:fit:1400/1*s9kgU8F1eB7Tzs7sG0YhBg.jpeg"/>
-  <img alt="Graphql" width="160" height="120" src="https://media.licdn.com/dms/image/v2/D4D12AQGbftE3QyuP7g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1706069499596?e=2147483647&v=beta&t=tLCX5KvrYch50S1LnUpQqnZacxj1YRRVK3UmXWeybCI"/>
-</p>
-
-<b>Cloud</b>
-
-<p align="left">
-    <img alt="AWS" width="200" height="120" src="https://www.alura.com.br/artigos/assets/aws/aws.jpg"/>
-    <img alt="Google Cloud" width="200" height="120" src="https://safetec.com.br/wp-content/uploads/2021/09/o-que-e-google-cloud-platform.jpg"/>
-</p>
-
-<b>CI/CD</b>
-
-<p align="left">
-  <img alt="GitHub Actions" width="200" height="120" src="https://i0.wp.com/build5nines.com/wp-content/uploads/2024/05/GitHub_Actions_Featured_Image_2024.jpg"/>
-</p>
+`Python` · `Apache Airflow` · `Airbyte` · `dbt` · `Snowflake` · `PostgreSQL` · `Terraform` · `Docker` · `CDC` · `Ruff` · `Black` · `Make` · `AWS` · `GitHub Actions`
 
 ---
 
-## 📫 Connect With Me
+## Career highlight
 
-- 💼 [LinkedIn - Caio H. Andrade Lima](https://www.linkedin.com/in/caiohandradelima/)
+> **Led 350+ engineers** as Software Manager at Latin America's largest financial institution—platform architecture, hiring, mentorship, and mission-critical delivery.  
+> Details on [LinkedIn](https://www.linkedin.com/in/caiohandradelima/).
 
 ---
+
+## Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**AI & data**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+**Backend & cloud**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Practices**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/caiohandradelima/)
+
+---
+
+*Profile README — pinned repos below are a curated set for AI and data engineering roles.*
